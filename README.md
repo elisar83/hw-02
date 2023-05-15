@@ -11,6 +11,7 @@
 Приложите в файл README.md текст использованных команд в GitHub
 
 **Ответ:
+
 ![image](https://github.com/elisar83/hw-02/assets/122297912/bb32bbc6-71d9-46e5-a90e-7de4d232e3eb)
 ![image](https://github.com/elisar83/hw-02/assets/122297912/773487cb-341a-4658-8e98-1befb23a4c07)
 
